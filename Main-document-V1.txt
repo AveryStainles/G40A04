@@ -1,0 +1,15 @@
+What are the modern computational techniques employed for nuclear physics material engineering?
+
+
+Questions:
+1. What is nuclear energy?
+2. What are the computational examples in the field?
+3. What kind of applications exists to compute these computational needs
+4. What alogirthms are in place in these applications that acomplishes this.
+
+
+Direction to answer questions:
+1. To understand the computational techniques it's worth investigating a high level of what is going on.
+2. What needs to be computed in the first place? There are graphing software that map out the properties that define the process (nuclear decay: e.g. half-life of radioactive material, alpha/beta decay, energy output from a reaction, etc.)
+3. Explore software that is in use for this field
+4. 
