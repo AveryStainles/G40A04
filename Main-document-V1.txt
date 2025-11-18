@@ -1,4 +1,5 @@
-What are the modern computational techniques employed for nuclear physics material engineering?
+Main question:
+- What are the modern computational techniques employed for nuclear physics material engineering?
 
 
 Questions:
@@ -12,4 +13,15 @@ Direction to answer questions:
 1. To understand the computational techniques it's worth investigating a high level of what is going on.
 2. What needs to be computed in the first place? There are graphing software that map out the properties that define the process (nuclear decay: e.g. half-life of radioactive material, alpha/beta decay, energy output from a reaction, etc.)
 3. Explore software that is in use for this field
-4. 
+4. Explore what the algorithms do in the software examples. 
+
+
+Sources:
+Q1.
+  The Feynmen Lectures on Physics: Volume I Mainly mechanics, radiation, and heat (Book) 
+  - page 4-7    Quote of interest: Next we come to nuclear energy, the 
+  - page 2-8    The segment is on Nuclei and particles. Theres a good analogy that compares TNT to a Nuclear bomb to visually quantify how much energy is being released 
+
+Q2.
+  MIT lecture on youtube
+  - link: https://www.youtube.com/watch?v=RW2DPHAoXiQ
