@@ -25,3 +25,16 @@ Q1.
 Q2.
   MIT lecture on youtube
   - link: https://www.youtube.com/watch?v=RW2DPHAoXiQ
+
+
+
+
+
+
+
+
+Process:
+	- Found a lot of papers mentioning Monte Carlo
+		- Paper one mentioned using LLM
+		- Paper two uses a github repo for a Monte Carlo simulation
+		- github repo is open source and simulates particle to particle interactions

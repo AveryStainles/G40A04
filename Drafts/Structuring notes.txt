@@ -21,9 +21,7 @@ Stage 2:
 	- answer questions.
 	
 	
-	
-	
-	
+
 	
 	
 define quetions relevence
