@@ -1,0 +1,52 @@
+// I highly recommend reading through "Drafts/Main-document.txt" where this 
+// information is annotated with contextual notes to how these questions 
+// are relevent to my final presentation
+
+Main question:
+	- What are the modern computational techniques employed for nuclear physics engineering?
+
+
+
+10 Questions: 
+	- Section 1:
+		1. What is nuclear energy?
+
+	- Section 2:
+		2. How are computations relevant to nuclear energy?
+			3. How are LLM useful for nuclear research?
+			4. What are LLM's limitations during nuclear energy research?
+			5. How relevent is LLM to nuclear energy research as a whole?
+
+	- Section 3:
+		6. What standardizing computational techniques are out there?
+			7. How are standardized computational techniques relevent?
+			8. How are Monte Carlo methods used?
+			9. How relevent are Monte Carlo methods?
+
+	(Currently researching a final source, probably in the nuclear safety/evaluation softwares in place)
+	- Section 4:
+		10. Nuclear hysteria, how is it addressed? 
+			11. How is this relevent to the field?
+			12. What are the current limitations faced?
+			
+	- Section 5: *** Conclusion ***
+
+
+
+Sources:
+	- The Feynmen Lectures on Physics: Volume I Mainly mechanics, radiation, and heat (Book) ((Probably not going to use))
+		- page 4-7    Quote of interest: "Next we come to nuclear energy, the" 
+		- page 2-8    The segment is on Nuclei and particles. Theres a good analogy that compares TNT to a Nuclear bomb to visually quantify how much energy is being released 
+	  
+	- MIT lecture on youtube
+		- link: https://www.youtube.com/watch?v=RW2DPHAoXiQ
+
+	- Folders
+		- Source 6
+		- Source 7
+		- Source 15
+		- Source 16
+		- Source 17 (Work in progress)
+
+	- Text file "Discussion with researcher.txt"
+

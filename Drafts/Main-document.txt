@@ -1,40 +1,71 @@
 Main question:
-- What are the modern computational techniques employed for nuclear physics material engineering?
+	- What are the modern computational techniques employed for nuclear physics engineering?
+
 
 
 Questions:
-1. What is nuclear energy?
-2. What are the computational examples in the field?
-3. What kind of applications exists to compute these computational needs
-4. What alogirthms are in place in these applications that acomplishes this.
+	1. What is nuclear energy?
+		Note 1. High level question to prime to audience. TLDR we heat up water to generate steam to spin a turbine. (Get source)
+		Note 2. Prime audience - explain at a high level what a nuclear chain reaction is. (Will need to simplify) (Source: MIT lecture on youtube) 
+		
+		
+	2. How are computations relevant to nuclear energy?
+		Note 1. Acknolegdge there are many avenues but for today I'll be investigating 3 computational techques. 
+		Note 2. Start by introducing LLM helping with nuclear research. (Source 7)
+		
+		3. How are LLM useful for nuclear research?
+			
+		4. What are LLM's limitations during nuclear energy research?
+			
+		5. How relevent is LLM to nuclear energy research as a whole?
+			Note 1. Conclude this section with a short paraphrase of the key ideas
+		
+		
+	6. What standardizing computational techniques are out there?
+	
+		7. How are standardized computational techniques relevent?
+			Note 1. Introduce "Monte Carlo methods" (Source 6) ((Will try to find a better source))
+			
+		8. How are Monte Carlo methods used?
+			Note 1. Answer by introducing (Source 15, Source 16) ((may need revisiting))
+			Note 2. Try running a simulation of "MadGraph5", ((may need revisiting after a spike))
+			
+		9. How relevent are Monte Carlo methods?
+			Note 1. Display screenshots of the number of records that are found in the recommended library database softwares.
+	
+	
+	10. Nuclear hysteria, how is it addressed? 
+		Note 1. (Currently researching for sources from this section and below)
+		Note 2. First consideration: "Candu" and their Candu reactors 
+		Note 3. Second consideration: Nuclear safety/evaluation is software heavy
+		Note 4. Third consideration: Canadian Nuclear Safety Commission (CNSC)
+		
+		11. How is this relevent to the field?
+		
+		12. What are the current limitations faced?
+			Note 1. Transition to the conclusion of the presentation
+			
+			
+	Conclusion:
+		Note 1. Discuss the scope of my research. How far did I cover?
+		Note 2. What were limitations in my research
+		Note 3. Where are avenues to continue researching
 
-
-Direction to answer questions:
-1. To understand the computational techniques it's worth investigating a high level of what is going on.
-2. What needs to be computed in the first place? There are graphing software that map out the properties that define the process (nuclear decay: e.g. half-life of radioactive material, alpha/beta decay, energy output from a reaction, etc.)
-3. Explore software that is in use for this field
-4. Explore what the algorithms do in the software examples. 
 
 
 Sources:
-Q1.
-  The Feynmen Lectures on Physics: Volume I Mainly mechanics, radiation, and heat (Book) 
-  - page 4-7    Quote of interest: Next we come to nuclear energy, the 
-  - page 2-8    The segment is on Nuclei and particles. Theres a good analogy that compares TNT to a Nuclear bomb to visually quantify how much energy is being released 
+	- The Feynmen Lectures on Physics: Volume I Mainly mechanics, radiation, and heat (Book) ((Probably not going to use))
+		- page 4-7    Quote of interest: "Next we come to nuclear energy, the" 
+		- page 2-8    The segment is on Nuclei and particles. Theres a good analogy that compares TNT to a Nuclear bomb to visually quantify how much energy is being released 
+	  
+	- MIT lecture on youtube
+		- link: https://www.youtube.com/watch?v=RW2DPHAoXiQ
 
-Q2.
-  MIT lecture on youtube
-  - link: https://www.youtube.com/watch?v=RW2DPHAoXiQ
+	- Folders
+		- Source 6
+		- Source 7
+		- Source 15
+		- Source 16
+		- Source 17 (Work in progress)
 
-
-
-
-
-
-
-
-Process:
-	- Found a lot of papers mentioning Monte Carlo
-		- Paper one mentioned using LLM
-		- Paper two uses a github repo for a Monte Carlo simulation
-		- github repo is open source and simulates particle to particle interactions
+	- Text file "Discussion with researcher.txt"

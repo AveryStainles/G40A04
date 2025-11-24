@@ -1,0 +1,8 @@
+
+Source: "Discussion with resercher.txt"
+
+- CNSC has a bunch of software models to model plant bahiour under certain conditions
+- They use that to predict falure and validate designs
+- CNSC: Canadian nuclear safety comission
+- used in reactor liscensing and design (models used to represent plant behaviour)
+- More advance models: simulations used for design and evaluation for CANDU

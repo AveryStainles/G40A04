@@ -1,0 +1,98 @@
+Main question of my research project:
+	- What are the modern computational techniques employed for nuclear physics material engineering?
+
+
+Some starting questions:
+	- What are the impacts the field has.
+	- What applications do you use to assist you with your everyday research.
+	- Have you encountered any limitations to the current usefulness of these applications?
+	- What has brought you to study this specific branch?
+	- Are you familiar with "Monte Carlo methods"?
+	- Are you familiar with "MadGraph5_aMC@NLO"
+
+
+Draft notes, rushed to type during meeting. Need to polish them:
+	- structural material to build reactors
+	- serconium alloys
+	- when a neutron has fission reaction with atom split into two (that is fission)
+	- extra neatrons are release when split (3 neutoron on average for U-235)
+	- Important: neutrons collide with other fission reaction
+	
+	- candu nucrealer reactor
+		- Canadian nuclear reactors
+		- better design to use natural uranium (instead of enriched uranium)
+		- uranium enrichment is the biggest/ most prehibitive step for nuclear weapenery
+		- Candu reactors distributes tech to make nuclear reactors in various countries
+		- For countries to supply their own uranium so they don't have the stuff to make nuclear weapons
+		- Candu "we will make reactor to be used and supplied without the ground work for nuclear weapon programs. Nuclear weapons rely on enriched urandium which is incompatible with the Candu's fuel (natural uranium)"
+		- Average Candu reactor 700megawatt
+			- 4 to 6 concurrent reactors at any given power plant
+	
+	- Magnox reactor:
+		- super old british natural uranium that are so inefficient because they cost too much to run, but there is one magnox reactor still in use (occasionally)
+		- Gives off about 5 megawatt
+		- in north korea
+		- still exists because one of the by products is plutonium grade bi-products
+		
+	- Trisol fuel:
+		- nuclear fission reactions 
+		- the speed of the neautron is important.
+		- When you have a nuclear reactor, the neutrons that are triggered by a fission reactions, they are too fast to create more reactions. With our current tech we can't make this sustainable. Different material has a percent chance of having a fission reaction when a neautron gets close to it, or a percent chance it gets absorbed, or a chance it passes by.
+		- The speeds right after a fission action (neutrons released) too fast to cause another one.
+		- You need a moderator which is a piece between reaction materials
+		- Candu fuel bundle
+		- heaver water goes through the fuel bundle, that heats up other water to produce steam. There is an insolating gap between the pressure tube and the tank. The tank is full of heavy water
+		- has insolators ans detectors to monitor the heat in the pressure tube.
+		- Heavy water is hydrogen with an extra neutron 
+		- (duterium atom) 1 proton 1 neutron 1 electron ((might need to revisit, i think i got the numbers wrong))
+		- H20 where hydrogen has an extra neutron (less prone to absorbing neutrons)
+		- we use heavy water in canada because we don't use enriched uranium.
+		- Means an electron hitting a random spot has a higher chance of hitting uranium 235
+		- We are less worried about loosing neutrons.
+		- Deuterium you don't lose neutrons due to the moderator (efficient with neutron economy because less are lost to the moderator)
+		
+	moderator:
+		- neutoron goes through moderator and bounces for a while until it is at a speed where it is liklier to react (until it reacts with something)
+		- when it bounces off any molecule in the generator, it looses energy (slow down). 
+		- over time it slows enough to cause fission reaction. 
+		- with heavy water, a neutron bouncing off a light water atom it has a chance to be absorbed by hydrogen. In heavy water its unlikely because dutronium already carries the extra neutron.
+		- d in Candu is deutronium
+	
+	Candu are worried about:
+		- neutron economy
+		- how many absorved v.s. released
+		- which fuel is being exhausted
+			- as in U235 you end up will a lower ratio so more are absorbed in U238
+			- They monitor usage of fuel bundles, based on statistical analysis over time and location
+			- Computational application is AI monitoring fuel burnout to determind the remaing fuel capacity
+		- They rotate fuel bundles through the reactor
+
+		- CNSC has a bunch of software models to model plant bahiour under certain conditions
+			- They use that to predict falure and validate designs
+		- CNSC: Canadian nuclear safety comission
+		- used in reactor liscensing and design (models used to represent plant behaviour)
+		- More advance models: simulations used for design and evaluation for CANDU
+		
+		- Nuclear safety/evaluation (very software heavy)
+		- potential avenues for the future
+	
+	
+Their research:
+	- when metal reacts with oxygen = material + oxygen
+	- metals form clumps of atoms attected to themselves
+	- once an iron (any metal) it becomes an oxide of that metal, but it's their own seperate molecule instead of the rest of the metal. But it doesn't bound (think rust flaking off) Oxide == metal + oxygen 
+	- Hidride == metal + hydrogen
+		- similar to rust but not quite
+		- easily slip through metal crystal to sneak inside and round the metal.
+		- So it tried to form inside
+		- Can cause faults insider the metal if its too dense
+	- Hydrides in zirconium, trying to find ways to manipulate movements of hydrides to extract them from zirconium
+	- electricity charge jumps from high to low (potential difference)
+	- A high potential attacts
+	- A low potential repels
+	- EX: In a battery 
+	- Similar idea, potential difference is used to pull hydrogen to pull from metal to another
+		- To prevent hydried buildup in Candu
+		- Transfer fault over to other metals
+		- zirconium is good at not absorbing neutron so neutron can pass through very well.
+		- Tehcnically zirconium is just another metal but is used in nuclear reserach for its properties.
