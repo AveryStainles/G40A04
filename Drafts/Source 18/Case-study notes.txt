@@ -1,0 +1,3 @@
+Chernobyl: 
+	- Design flaw and malpractice
+	- Points of failure: Mechanical, human, and control systems 

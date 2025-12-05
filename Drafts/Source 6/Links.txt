@@ -1,3 +1,0 @@
-IBM - What is Monte Carlo Simulation?:
-	 - https://www.ibm.com/think/topics/monte-carlo-simulation 
-	 - AVERY NOTE: Helpful for a basic understanding to connect computation methods with my nuclear energy research.

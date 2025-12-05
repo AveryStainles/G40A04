@@ -40,7 +40,14 @@ Questions:
 		Note 3. Second consideration: Nuclear safety/evaluation is software heavy
 		Note 4. Third consideration: Canadian Nuclear Safety Commission (CNSC)
 		
-		11. How is this relevent to the field?
+		11. Why do we do safety evaluations?
+			Note 1. Inadequate safety regulations lead to problems. Case-study examples: Chernobyl, 3 mile island, Fukushima
+			Note 2. Discuss Chernobyl case study
+			
+		12. How does an incident like the Chernobyl disaster happen?
+			Note 1. Reason 1, mechanical failures due to design flaws
+			Note 2. Reason 2, human error
+			Note 3. Reason 3, control system
 		
 		12. What are the current limitations faced?
 			Note 1. Transition to the conclusion of the presentation
