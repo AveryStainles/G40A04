@@ -1,0 +1,45 @@
+Accelerate fusion and fission research
+
+14 teams explored science challenges using ChatGPT, Gemini, Claude, and other AI models.
+
+//useful==================================================================
+Applications ranged from:
+- developing foundation models for fusion reactor control.
+- automating Monte Carle simulations.
+- material degradation.
+- and designing experimental programs for advanced reactors.
+
+//useful==================================================================
+Teams employed structured workflows combining 
+- Prompt engineering.
+- Deep research capabilities.
+- Iterative refinement to generate:
+	- hypotheses.
+	- prototype code. 
+	- research strategies.
+	
+//useful==================================================================
+Key findings demonstrate that LLMs excel at early-stages in: 
+- Exploration.
+- Literature synthesis.
+- Workflow design.
+- Successfully identifying research gaps 
+	- and generating plausible experimental frameworks. 
+
+//limitations==================================================================
+However, significant limitations emerged:
+- Novel materials designs, 
+- Advanced code generation for modeling and simulation
+- domain-specific details requiring expert validation. 
+
+
+//relevant==================================================================
+The successful outcomes resulted:
+- expert-driven prompt engineering 
+- treating AI as a complementary tool rather than a replacement
+for physics-based methods. 
+
+//relevant==================================================================
+Conclusion
+- The workshop validated AI’s potential to accelerate nuclear energy research through rapid iteration and cross-disciplinary synthesis while highlighting the need for curated nuclear-specific datasets, workflow automation, and specialized model development.
+- These results provide a roadmap for integrating AI tools into nuclear science workflows, potentially reducing development cycles for safer, more efficient nuclear energy systems while maintaining rigorous scientific standards.

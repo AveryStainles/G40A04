@@ -1,0 +1,12 @@
+- The workshop’s primary objective was to assess whether AI could meaningfully accelerate early-stage research in nuclear energy applications while identifying both the opportunities and limitations of current technology. Unlike traditional computational tools that excel at numerical simulation, LLMs oer unique capabilities in synthesizing vast bodies of literature, generating initial hypotheses, identifying research gaps, and facilitating cross-disciplinary communication—all critical activities in the complex landscape of nuclear research.
+
+- We present detailed case studies from each team, highlighting successful applications where AI demonstrated clear value—such as literature synthesis, workow design, and initial code prototyping—as well as areas where current limitations became apparent, including challenges with novelty, technical accuracy, and the need for expert validation. The synthesis of these experiences provides an advanced understanding of AI’s current role in nuclear science: not as a replacement for domain expertise or rigorous physical modeling, but as an accelerant for scientic exploration.
+
+Limitations (Page 3 of paper)
+- Data and code access barriers: The most signicant limitation across projects was the inability to access or process in-house nuclear data. Teams working with SCALE, MCNP, and other restricted codes could not generate functional inputs despite extensive prompting.
+
+- Implementation depth: While AI excelled at high-level design and framework development, detailed implementation consistently required human expertise. No team achieved production-ready code, with particular struggles in Python generation and mathematical solver development.
+
+- Data access and validation: Projects were hampered by paywalled literature, missing datasets, and the need for extensive expert validation. The fusion data annotation team could not access TRANSP datasets, while the corrosion team missed state-of-the-art studies behind paywalls.
+
+- Technical accuracy: Several projects encountered accuracy issues—incorrect parameter values for heat transfer, failed dislocation loop generation, problematic citations, and overly general responses that lacked domain specicity.
